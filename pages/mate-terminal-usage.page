@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<page xmlns="http://projectmallard.org/1.0/" id="mate-terminal-usage" type="guide">
+  <info>
+    <link type="guide" group="mate-terminal-usage" xref="index"/>
+  </info>
+  <title>Usage</title>
+  <links type="topic" groups="mate-terminal-windows mate-terminal-manage-profiles mate-terminal-tabs mate-terminal-contents mate-terminal-shortcuts mate-terminal-resize mate-terminal-title mate-terminal-encoding mate-terminal-reset "/>
+</page>

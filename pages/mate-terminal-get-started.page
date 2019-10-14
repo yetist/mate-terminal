@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<page xmlns="http://projectmallard.org/1.0/" id="mate-terminal-get-started" type="guide">
+  <info>
+    <link type="guide" group="mate-terminal-get-started" xref="index"/>
+  </info>
+  <title>Getting Started</title>
+  <p>
+        The following sections describe how to start <app>MATE Terminal</app>. 
+     </p>
+  <links type="topic" groups="mate-terminal-to-start mate-terminal-first-start mate-terminal-profiles mate-terminal-more-windows "/>
+</page>

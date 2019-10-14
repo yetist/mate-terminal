@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<page xmlns="http://projectmallard.org/1.0/" id="mate-terminal-prefs" type="guide">
+  <info>
+    <link type="guide" group="mate-terminal-prefs" xref="index"/>
+  </info>
+  <title>Preferences</title>
+  <p>
+        To configure <app>MATE Terminal</app>, choose <guiseq><gui style="guimenu">Edit</gui><gui style="guimenuitem">Current Profile</gui></guiseq>. To configure another profile that you set up choose <guiseq><gui style="guimenu">Edit</gui><gui style="guimenuitem">Profiles</gui></guiseq>, select the profile you want to edit, then click <gui style="guibutton">Edit</gui>.  </p>
+  <p>
+        The <gui style="guilabel">Editing Profile</gui> dialog contains the following tabbed sections that you can use to configure <app>MATE Terminal</app>: </p>
+  <links type="topic" groups="mate-terminal-prefs-general mate-terminal-prefs-title mate-terminal-prefs-colors mate-terminal-prefs-effects mate-terminal-prefs-scrolling mate-terminal-prefs-compatibility "/>
+</page>
